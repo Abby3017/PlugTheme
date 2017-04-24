@@ -22,16 +22,3 @@ Follow these steps for easy installation or if you fiddle, then (best of luck)-
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Use the Settings->Plugin Name screen to configure the plugin
 
-
-
-== Frequently Asked Questions ==
-
-
-== Screenshots ==
-
-== Changelog ==
-
-= 1.0 =
- First version of this plugin.
-
-== Arbitrary section ==
